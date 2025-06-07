@@ -19,10 +19,7 @@ Modules
 7, Book Inventory – Add/Update/Delete Book details.
 8, Book Issuing – Issue/Return Books.
 
-
-
-
-
+Demo
 ![image](https://github.com/user-attachments/assets/3534b165-6698-4152-b63f-86ab77a862be)
 ![image](https://github.com/user-attachments/assets/7d7f3dee-e06b-479e-be67-1098d87db784)
 ![image](https://github.com/user-attachments/assets/8d6dc901-ec84-4f25-b325-c1cc06438b5c)
